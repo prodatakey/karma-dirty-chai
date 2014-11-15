@@ -1,0 +1,28 @@
+{
+  "name": "karma-dirty-chai",
+  "version": "0.0.1",
+  "description": "Karma adapter for the dirty-chai plugin",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prodatakey/karma-dirty-chai"
+  },
+  "keywords": [
+    "karma",
+    "chai",
+    "lint"
+  ],
+  "author": "Joshua Perry <josh@pdk.io>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/prodatakey/karma-dirty-chai/issues"
+  },
+  "homepage": "https://github.com/prodatakey/karma-dirty-chai",
+  "peerDependencies": {
+    "karma": ">=0.10"
+  },
+  "dependencies": {
+    "chai": "<1.10.0",
+    "dirty-chai": "0.0.1"
+  }
+}
