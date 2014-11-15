@@ -19,9 +19,7 @@
   },
   "homepage": "https://github.com/prodatakey/karma-dirty-chai",
   "peerDependencies": {
-    "karma": ">=0.10"
-  },
-  "dependencies": {
+    "karma": ">=0.10",
     "chai": "<1.10.0",
     "dirty-chai": "1.2.1"
   }
