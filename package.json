@@ -1,6 +1,6 @@
 {
   "name": "karma-dirty-chai",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Karma adapter for the dirty-chai plugin",
   "main": "index.js",
   "repository": {
@@ -19,10 +19,11 @@
   },
   "homepage": "https://github.com/prodatakey/karma-dirty-chai",
   "peerDependencies": {
-    "karma": ">=0.10"
+    "karma": ">=0.10",
+    "chai": ">=2.0"
   },
   "dependencies": {
-    "chai": "<1.10.0",
-    "dirty-chai": "0.0.1"
+    "dirty-chai": "1.1.0",
+    "lodash": "^3.3.1"
   }
 }
