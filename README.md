@@ -9,7 +9,7 @@ for [Karma](http://karma-runner.github.io)
 Requirements
 ------------
 
-This Karma plugin requires Karma `>=0.10`
+This Karma plugin requires Karma `>=0.10` and Chai `>=2.0`.
 
 Installation
 ------------
