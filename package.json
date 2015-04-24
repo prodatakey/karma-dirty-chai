@@ -1,6 +1,6 @@
 {
   "name": "karma-dirty-chai",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Karma adapter for the dirty-chai plugin",
   "main": "index.js",
   "repository": {
