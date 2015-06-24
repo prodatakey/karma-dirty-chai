@@ -21,6 +21,6 @@
   "peerDependencies": {
     "karma": ">=0.10",
     "chai": "<1.10.0 || >1.10.0 <3",
-    "dirty-chai": "1.2.1"
+    "dirty-chai": "^1.2.0"
   }
 }
