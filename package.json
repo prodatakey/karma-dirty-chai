@@ -23,6 +23,6 @@
   },
   "dependencies": {
     "chai": "<1.10.0",
-    "dirty-chai": "1.2.1"
+    "dirty-chai": "1.2.2"
   }
 }
