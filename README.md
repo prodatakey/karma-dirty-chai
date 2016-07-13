@@ -20,13 +20,13 @@ Install the module via npm
 $ npm install --save-dev karma-dirty-chai
 ```
 
-Add `dirty-chai` to the `frameworks` key in your Karma configuration:
+Add `dirty-chai` to the `frameworks` key in your Karma configuration before `'chai'`:
 
 ```js
 module.exports = function(config) {
   'use strict';
   config.set({
-    frameworks: ['mocha', 'dirty-chai'],
+    frameworks: ['mocha', 'dirty-chai', 'chai'],
     #...
   });
 }
