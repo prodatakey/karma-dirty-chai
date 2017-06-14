@@ -1,6 +1,8 @@
 karma-dirty-chai
 ================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/prodatakey/karma-dirty-chai.svg)](https://greenkeeper.io/)
+
   * [Chai](http://chaijs.com)
   * [Dirty-Chai](https://github.com/prodatakey/dirty-chai)
 
